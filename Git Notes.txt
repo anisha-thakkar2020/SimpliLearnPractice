@@ -1,0 +1,18 @@
+Steps to clone, pull, push, commit, add to the local repositories
+
+1. Clone the remote repositories to local system
+	git clone "git repository URL"
+
+2. Add files
+	git add .
+	
+3. commit changes
+	git commit -am "comment for changes"
+	
+	
+4. Push to  remote repositories
+	git push
+
+5. To pull latest file from Remote repository
+	git pull
+	
